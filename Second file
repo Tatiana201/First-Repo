@@ -1,0 +1,2 @@
+curl --location --request GET 'https://api.trello.com/1/members/me/boards?fields=name,url&key=74b980879e630869099b547f60fdea42&token=195f1bd5c875c6eb3982a6ca583a4dc9e1faf3b81c41eb22b56229f9b648aaf5' \
+--header 'Cookie: ajs_anonymous_id=%228d20cb58-6389-b3fe-ff53-dad1f682a9db%22; atlCohort={"bucketAll":{"bucketedAtUTC":"2022-07-06T19:27:18.017Z","version":"2","index":54,"bucketId":0}}; dsc=4eeb5c36672bac6d18ba4d95bc95fc95d1bee375f0d21287f173a6e8af9dc067; preAuthProps=s%3A5ed55c50d836563e70b245bd%3AisEnterpriseAdmin%3Dfalse.ut1ZL07lgNraQxhEG2nP5b%2FCHNGCw8NK2aGavo9Skz8'
